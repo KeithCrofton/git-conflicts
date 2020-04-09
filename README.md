@@ -1,4 +1,4 @@
-There was a senile man who lived on a boat.  
-He had so many lifejackets, he could always float;  
-He got confused and from those, made a raft;  
-And now they call him "Captain Daft".  
+There was an old woman who lived in a mansion.  
+She had no children, she could afford it;  
+She gave herself some broth and some bread;  
+Then she went to bed.  
