@@ -1,10 +1,5 @@
 # Practicing Git Conflicts with a pair
 
-## Setup
-- Fork this repository to your own github
-- Add your pair as a collaborator on your fork
-- Both of you should clone the repository down to your local machine
-
 ## Instructions
 - Now to make some conflicts!
 - Both collaborators should create a new branch
